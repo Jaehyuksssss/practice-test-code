@@ -4,7 +4,7 @@
 
 # 목차
 
-1. 벨로 퍼트 강의를 보고 따라 치면서 감 익히기
+1. 벨로 퍼트 강의를 보고 따라 하면서 감 익히기
 2. 투두리스트에 적용하기
 
 # 테스트 코드란?
@@ -41,3 +41,8 @@
 1. 여러 컴포넌트들을 렌더링하고 서로 상호 작용을 잘 하고 있다
 2. DOM 이벤트를 발생 시켰을 때 우리의 UI 에 원하는 변화가 잘 발생한다
 3. 리덕스와 연동된 컨테이너 컴포넌트의 DOM 에 특정 이벤트를 발생시켰을 때 우리가 원하는 액션이 잘 디스패치 된다
+
+# 리액트 테스팅 도구
+
+- React Testing Library (RTL) , Enzyme등이 있는데 React Testing Library (RTL)와 Jest 조합이 React 애플리케이션을 테스트하기에 충분하다는 이유로 Enzyme은 더 이상 개발 및 업데이트되지 않는다.
+  <img width="642" alt="image" src="https://github.com/Jaehyuksssss/my-Gatsby-blog/blob/master/my_blog/contents/Image/GPT.png?raw=true">
